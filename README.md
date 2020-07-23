@@ -1,6 +1,6 @@
-# hello_world
+# Flutter-Practice
 
-A new Flutter application.
+- Used stateful & stateless widget.
 
 ## Getting Started
 
